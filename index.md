@@ -18,7 +18,7 @@ clear, fast, and useful.
 <div class="card">
   <h3>Quick links</h3>
   <ul>
-    <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
-    <li><a href="{{ '/about' | relative_url }}">About</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/projects">Projects</a></li>
   </ul>
 </div>
