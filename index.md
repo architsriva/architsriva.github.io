@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 <h2>Hi, I’m Archit.</h2>
 
