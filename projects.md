@@ -8,7 +8,7 @@ title: Projects
 ### HTML + GitHub Pages (Assignment 2)
 A multi-page website published with GitHub Pages, demonstrating basic HTML structure and navigation.
 
-- Live site: (add your link here)
+- Live site: https://storymaps.arcgis.com/stories/b869928f843b4d308f7d255503ce3fa4
 
 ## Professional / Portfolio Highlights
-(We’ll add 2–3 concrete projects here next, with links and screenshots.)
+
