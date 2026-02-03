@@ -1,7 +1,3 @@
----
-layout: default
-title: Projects
----
 
 ## GIS 661 Work
 
