@@ -18,7 +18,7 @@ clear, fast, and useful.
 <div class="card">
   <h3>Quick links</h3>
   <ul>
-    <li><a href="{{ '/projects' | https://github.com/architsriva/architsriva.github.io/blob/main/projects.md}}">Projects</a></li>
-    <li><a href="{{ '/about' | https://github.com/architsriva/architsriva.github.io/blob/main/about.md }}">About</a></li>
+    <li><a href="{{ https://github.com/architsriva/architsriva.github.io/blob/main/projects.md}}">Projects</a></li>
+    <li><a href="{{ https://github.com/architsriva/architsriva.github.io/blob/main/about.md }}">About</a></li>
   </ul>
 </div>
