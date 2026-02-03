@@ -1,7 +1,3 @@
----
-layout: default
-title: About
----
 
 I’m **Archit Srivastava**, an MS GIS student at the University of Redlands with professional experience
 supporting enterprise GIS environments and building web mapping applications.
