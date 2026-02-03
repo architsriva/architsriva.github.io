@@ -1,4 +1,3 @@
-
 <h2>Hi, I’m Archit.</h2>
 
 <p>
@@ -19,7 +18,7 @@ clear, fast, and useful.
 <div class="card">
   <h3>Quick links</h3>
   <ul>
-    <li><a href="{{ '/projects' | relative_url }}">Projects</a> (selected work)</li>
-    <li><a href="{{ '/about' | relative_url }}">About</a> (background & skills)</li>
+    <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
+    <li><a href="{{ '/about' | relative_url }}">About</a></li>
   </ul>
 </div>
